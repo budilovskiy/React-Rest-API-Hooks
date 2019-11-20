@@ -1,3 +1,5 @@
+Based on [Hook Your Fetch Requests With React](https://medium.com/better-programming/hook-your-fetch-requests-with-react-e8c93dbad932) article.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
